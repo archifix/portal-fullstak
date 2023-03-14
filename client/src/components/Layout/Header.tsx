@@ -30,7 +30,7 @@ const PageHeader: React.FC = () => {
         id="topBar"
         className="flex items-center justify-between mx-10 max-h-max"
       >
-        <nav className="flex items-center h-4 mr-8">
+        <nav className="top-nav flex items-center h-10S mr-8">
           <a href="/">
             <Button>Главная</Button>
           </a>

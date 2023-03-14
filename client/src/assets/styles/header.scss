@@ -38,3 +38,12 @@
 //.topBar .navbar-collapse{
 //    padding-left: 25rem;
 //}
+
+.topbar {
+	@media (max-width: 1450px) {
+		.top-nav {
+			height: 32px;
+		}
+		
+	}
+}
