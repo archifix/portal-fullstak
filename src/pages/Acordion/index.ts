@@ -1,0 +1,1 @@
+export { Acordion as default } from './AcordionPage'

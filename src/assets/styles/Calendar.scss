@@ -1,0 +1,10 @@
+.Calendar  div {
+    GridWrapper{  
+  display: grid;
+  grid-template-columns: repeat(7, 1rf);
+  grid-template-rows: repeat(6, 1rf);
+  grid-gap: 1px;
+  background-color: rgb(168 162 158);
+}
+}
+

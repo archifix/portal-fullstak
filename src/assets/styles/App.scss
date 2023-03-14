@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	height: max-content;
+	box-sizing: border-box;
+}
+
+#root {
+	position: relative;
+	width: 100%;
+	height: auto;
+	justify-content: center;
+}
+
+.App .post__content {
+	margin-left: 80px;
+	width: 800px;
+}
+.vks {
+	margin-inline-end: 11rem;
+	font-family: 'Roboto Condensed Regular';
+	color: rgb(71, 70, 70);
+	font-size: 18px;
+	margin-inline-start: 5rem;
+	height: auto;
+}
+
+.container .text {
+	font-size: 20px;
+	font-family: 'Roboto Condensed Regular';
+}

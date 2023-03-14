@@ -1,0 +1,9 @@
+.Acordion {
+  $this: &;
+  @apply mt-4 shadow-none
+
+  &_header {
+    @apply flex items-center justify-between h-5 pr-2 pt-1 pb-2 border border-solid;
+    transition: all 0.3s ease;
+  }
+}

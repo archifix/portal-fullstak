@@ -1,0 +1,94 @@
+section {
+  box-sizing: border-box;
+  display: block;
+  float: none;
+  line-height: 22.5px;
+  position: relative;
+  z-index: auto;
+}
+
+.Home {
+  position: relative;
+}
+
+.columns-3 {
+  display: flex;
+  width: max-content;
+  height: auto;
+  font-size: 13px;
+  justify-content: flex-start;
+}
+
+article {
+  box-sizing: border-box;
+  float: none;
+}
+
+article ol li {
+  width: 34rem;
+  box-sizing: border-box;
+  display: list-item;
+  line-height: 19px;
+  position: static;
+}
+.col-md-12 {
+  font-family: "Roboto Condensed Bold" !important;
+  margin: 0 20px;
+  position: relative;
+}
+
+.col-lg-6 .left {
+  font-family: "Roboto Condensed Bold", sans-serif !important;
+  color: rgb(71, 70, 70);
+  font-size: 20px;
+  padding-left: 6rem;
+}
+
+.post_item {
+  font-family: "Roboto Condensed Bold", sans-serif !important;
+  text-align: justify;
+  font-size: 15px;
+  color: rgb(71, 70, 70);
+  padding-inline: 1.5rem;
+}
+
+.post_item-title {
+  font-family: "Roboto Condensed Regular", sans-serif;
+<<<<<<< HEAD
+  font-size: 14px;
+=======
+>>>>>>> 0e5a80557de103005bea356e3a8e77cb9fbea83f
+  text-align: justify;
+}
+
+img {
+  margin: 0 20px 0 0;
+  width: 157;
+  align-items: baseline;
+}
+
+.col-lg-12 img {
+  display: block;
+  line-height: 22.5px;
+  position: static;
+  z-index: auto;
+}
+
+.col-lg-12 ol { 
+  outline: none;
+  font-size: 14px;
+  padding-inline: 1.5rem;
+}
+
+.col-lg-12 ol li {
+  outline: none;
+  font-size: 15px;
+}
+
+.is h4 {
+  font-family: "Roboto Condensed Bold", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(71, 70, 70);
+}
+

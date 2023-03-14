@@ -1,0 +1,40 @@
+.bg-fixed {
+	background: url('../images/bgheader.png');
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+.title {
+	margin: 20px;
+	color: yellow;
+	text-transform: uppercase;
+	h1 {
+		margin-bottom: -15px;
+		font-family: 'Roboto Condensed Bold' !important;
+		font-size: 50px;
+	}
+	h3 {
+		font-size: 16px;
+		font-family: 'Roboto Condensed Bold' !important;
+	}
+}
+
+// .navbar-nav {
+// 	display: flex;
+// 	font-size: 19px;
+// 	align-items: center;
+// 	justify-items: center;
+// }
+
+// .navbar button {
+// 	font-family: 'Roboto Condensed Regular', sans-serif !important;
+// 	font-size: 15px;
+// }
+
+//.topBar{
+//    border-bottom: rgba(0, 0, 0, 0.08) 1px solid;
+//  }
+
+//.topBar .navbar-collapse{
+//    padding-left: 25rem;
+//}
